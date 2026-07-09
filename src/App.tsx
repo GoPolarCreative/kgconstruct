@@ -427,7 +427,7 @@ export default function App() {
 
             <div className="relative">
               <img
-                src="/images/kg3.png"
+                src="/images/whyKG.png"
                 alt="Completed deck project"
                 className="rounded-2xl w-full object-cover h-[520px] shadow-2xl"
               />
