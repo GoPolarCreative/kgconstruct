@@ -59,12 +59,12 @@ const STATS = [
 ];
 
 const GALLERY = [
-  { src: '/images/kg1.png', alt: 'Roof framing construction' },
-  { src: '/images/kg3.png', alt: 'Timber deck with pool' },
-  { src: '/images/kg4.png', alt: 'Bathroom renovation' },
-  { src: '/images/kg5.png', alt: 'Timber deck with garden lighting' },
-  { src: '/images/kg6.png', alt: 'Interior renovation with steel beams' },
-  { src: '/images/kg2.png', alt: 'KG Construct on site' },
+  { src: '/images/kg1.png', alt: 'Interior renovation with steel beams' },
+  { src: '/images/kg3.png', alt: ''Bathroom renovation' },
+  { src: '/images/kg4.png', alt: 'Timber deck with pool' },
+  { src: '/images/kg5.png', alt: 'KG Construct on site' },
+  { src: '/images/kg6.png', alt: 'Framing' },
+  { src: '/images/kg2.png', alt: 'Timber deck with garden lighting' },
 ];
 
 export default function App() {
