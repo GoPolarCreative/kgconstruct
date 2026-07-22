@@ -429,7 +429,7 @@ export default function App() {
               <img
                 src="/images/whyKG.png"
                 alt="Completed deck project"
-                className="rounded-2xl w-full object-cover h-[520px] shadow-2xl"
+                className="rounded-2xl w-full object-cover aspect-square md:aspect-auto md:h-[520px] shadow-2xl"
               />
               <div className="absolute -top-5 -right-5 bg-[#2563eb] text-white p-6 rounded-2xl shadow-xl text-center">
                 <div className="text-3xl font-black">14</div>
